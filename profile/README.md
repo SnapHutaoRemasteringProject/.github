@@ -63,9 +63,9 @@ SnapHutao Remastering Project 是一个完全重构的《原神》玩家工具�
 
 ## 📞 联系我们
 
-- **官方网站**: [http://snaphutaorp.org](http://snap.hutaorp.org)
-- **开放平台**: [http://api.snaphutaorp.org](http://api.snap.hutaorp.org)
-- **邮箱**: [staff@snaphutaorp.org](mailto:staff@hutaorp.org)
+- **官方网站**: [http://snap.hutaorp.org](http://snap.hutaorp.org)
+- **开放平台**: [http://api.snap.hutaorp.org](http://api.snap.hutaorp.org)
+- **邮箱**: [staff@hutaorp.org](mailto:staff@hutaorp.org)
 - **问题反馈**: [GitHub Issues](https://github.com/SnapHutaoRemasteringProject/Snap.Hutao.Remastered/issues)
 
 ## 🙏 致谢
