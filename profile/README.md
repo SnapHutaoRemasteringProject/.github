@@ -1,7 +1,7 @@
 # SnapHutao Remastering Project
 
 <p align="center">
-  <img src="http://snaphutaorp.org/logo.png" alt="SnapHutao Logo" width="200"/>
+  <img src="https://snaphutaorp.org/logo.png" alt="SnapHutao Logo" width="200"/>
 </p>
 
 <h1 align="center">SnapHutao Remastering Project</h1>
@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="http://snaphutaorp.org">官方网站</a> · 
-  <a href="http://api.snaphutaorp.org">开放平台</a> · 
+  <a href="https://snaphutaorp.org">官方网站</a> · 
+  <a href="https://api.snaphutaorp.org">开放平台</a> · 
   <a href="mailto:staff@snaphutaorp.org">联系我们</a>
 </p>
 
@@ -34,11 +34,11 @@ SnapHutao Remastering Project 是一个完全重构的《原神》玩家工具�
 ## 📦 快速开始
 
 ### 桌面版下载
-请访问 [官方网站下载页面](http://snap.hutaorp.org/download) 获取最新版本。
+请访问 [官方网站下载页面](https://snaphutaorp.org/download) 获取最新版本。
 
 ## 🌐 API 使用
 
-我们提供了完整的开放平台API，详情请查阅 [API文档](http://api.snap.hutaorp.org/)。
+我们提供了完整的开放平台API，详情请查阅 [API文档](https://api.snaphutaorp.org/)。
 
 ## 🤝 参与贡献
 
@@ -63,9 +63,9 @@ SnapHutao Remastering Project 是一个完全重构的《原神》玩家工具�
 
 ## 📞 联系我们
 
-- **官方网站**: [http://snap.hutaorp.org](http://snap.hutaorp.org)
-- **开放平台**: [http://api.snap.hutaorp.org](http://api.snap.hutaorp.org)
-- **邮箱**: [staff@hutaorp.org](mailto:staff@hutaorp.org)
+- **官方网站**: [https://snaphutaorp.org](https://snaphutaorp.org)
+- **开放平台**: [https://api.snaphutaorp.org](https://api.snaphutaorp.org)
+- **邮箱**: [staff@snaphutaorp.org](mailto:staff@snaphutaorp.org)
 - **问题反馈**: [GitHub Issues](https://github.com/SnapHutaoRemasteringProject/Snap.Hutao.Remastered/issues)
 
 ## 🙏 致谢
